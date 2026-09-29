@@ -160,6 +160,20 @@ Includes:
 
 ---
 
+## 📊 Dashboard Preview
+
+### Page 1
+
+![IPL Dashboard Page 1](Image1.png)
+
+### Page 2
+
+![IPL Dashboard Page 2](Image2.png)
+
+### Page 3
+
+![IPL Dashboard Page 3](Image3.png)
+
 ## 📁 Project Structure
 
 ```text
